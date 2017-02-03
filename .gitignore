@@ -1,5 +1,5 @@
-./project/*
-./target/*
+project
+target
 .idea
 *.config
 *.csv
